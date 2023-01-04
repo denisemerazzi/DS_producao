@@ -1,0 +1,2 @@
+Repositório dedicado ao Curso DS em Produção, realizado junto à comunidade DS.
+O Projeto final está em fase de finalização e trará o desenvolvimento completo do projeto, passando por todas as fases de um projeto de Ciências de Dados: Limpeza dos dados (Descrição, Feature Engineering, filtragem de features), Análise Exploratória, Modelagem dos dados, Treinamento e Teste de modelos de Machine Learning, Avaliação dos algoritmos e interpretação do Erro e Deploy do modelo.
