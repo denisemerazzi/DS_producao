@@ -102,6 +102,6 @@ Além disso, a implemetação da solução, conta com a visualização das previ
 
 ## 8. Referências
 * O projeto foi construído junto à Comunidade DS, no curso DS em Produção.
-* O dataset foi extrapído da plataforma kaggle.
+* O dataset foi extraído da plataforma kaggle.
 * As imagens utilizadas são do meu acervo pessoal.
 
