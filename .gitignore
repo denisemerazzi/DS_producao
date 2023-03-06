@@ -1,2 +1,3 @@
-.ipynb_checkpoints
+*.ipynb_checkpoints
 Rossmann_*
+modulos_estudo
