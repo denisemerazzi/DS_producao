@@ -9,11 +9,10 @@ Nota: Esse é um problema fictício, porém, muito próximo da realidade.
 
 ## 3. Planejamento da solução
 Antes de iniciar o projeto, foi feito o planejamento da solução, onde foram traçadas as estratégias para atender cada necessidade para a execução das etapa do projeto: o produto final que será entregue, as ferramentas necessárias e o processo para atingir os resultadis esperados.
+
 ### 3.1 Produto final
-A entrega combinada com o time de negócios foi a previsão de vendas das próximas 6 semanas, por loja, de três formas:
-* Um relatório geral em forma de tabela? Google sheets?
-* Acesso aos dados via web através da ferramenta posstmann?
-* Acesso via web pelo celular através de um aplicativo de mensagens (Robô: Bot Telegram)
+A entrega combinada com o time de negócios foi a previsão de vendas das próximas 6 semanas, por loja, com acesso via web pelo celular através de um aplicativo de mensagens (Robô: Bot Telegram).
+
 ### 3.2 Ferramentas 
 * Pandas
 * Python
