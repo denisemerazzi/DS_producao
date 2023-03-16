@@ -97,8 +97,7 @@ A tabela a seguir, demonstra de forma completa, a previsão, o melhor e pior cen
 
 ## 7. Conclusão
 As metas estabelecidas durante o projeto foram atendidas. É possível verificar que, comparando o cálculo da média com a previsão de vendas das 1115 lojas participantes da análise, proveniente do modelo XGBoost, é possível afirmar que o modelo treinado, apresenta um erro menor em torno de 34%. Com o levantamento desses valores por loja, é mais fácil para o CFO planejar a reforma.
-Além disso, a implemetação da solução, conta com a visualização das previsões em tempo real, inclusive pelo celular, em um aplicativo de mensagens, onde o CFO indica a loja e tem o retorno da previsão.
-
+Além disso, a implementação da solução, conta com a visualização das previsões em tempo real, inclusive pelo celular, em um aplicativo de mensagens, onde o CFO indica a loja e tem o retorno da previsão.
 
 ## 8. Referências
 * O projeto foi construído junto à Comunidade DS, no curso DS em Produção.
