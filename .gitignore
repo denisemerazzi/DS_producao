@@ -1,3 +1,8 @@
+.vs
 *.ipynb_checkpoints
-Rossmann_*
 modulos_estudo
+fluxo.pptx
+anotacoes*
+*/__pycache__/
+m08_store_sales_prediction_FineTuning*
+rossmann_telegram_api/variables.cfg
